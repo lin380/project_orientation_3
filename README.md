@@ -59,5 +59,5 @@ You can preview a formatted version of this README.md document by clicking the '
 
 1. Knit your R Markdown document as a PDF or Word document
 2. Download this file.
-3. Go to the Canvas submission page for "Project orientation #2" and submit your file. 
+3. Go to the Canvas submission page for "Project orientation #3" and submit your file. 
 
