@@ -8,13 +8,13 @@ You can preview a formatted version of this README.md document by clicking the '
 
 - Reflect on your interests in language and linguistics
 - Review the concepts on data and datasets in [TAD Chapter 2 "Understanding data"](https://lin380.github.io/coursebook/understanding-data.html)
-- Familiarize yourself with [how to search for academic articles](https://guides.zsr.wfu.edu/c.php?g=34575&p=221095)
+- Familiarize yourself with [how to search for academic articles](https://guides.zsr.wfu.edu/c.php?g=34575&p=221095) which use text analysis methods
 - Consult Recipes 1 and 2 and Labs 1 and 2 for guidance on using R Markdown
 
 
 ## Objectives
 
-- Explore the literature on a topic and/or area of interest in language and linguistics
+- Explore the literature on a topic and/or area of interest in language and linguistics which employs text analysis methods
 - Hone the ability to skim an article from the primary literature to identify:
   - the aim(s) of a study and the main finding(s)
   - the data and dataset(s) used and how they relate to the research aim(s)
